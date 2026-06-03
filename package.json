@@ -1,11 +1,11 @@
 {
-  "name": "v4",
-  "description": "Personal Website V4",
+  "name": "my_portfolio",
+  "description": "Personal Portfolio Website of Shashank Rai",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Shashank Rai <shashankrai574@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/rai-shashank04/my_portfolio"
   },
   "keywords": [
     "gatsby"
