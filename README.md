@@ -2,6 +2,8 @@
 
 Welcome to the repository for my personal portfolio website. This site showcases my work experience, education, key analytics projects, and certifications.
 
+![Portfolio Screenshot](./src/images/demo.png)
+
 ## 🛠️ Technologies & Tools
 
 - **Core**: React, Gatsby, Styled Components, GraphQL
